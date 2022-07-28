@@ -1,0 +1,14 @@
+C:\Users\Colaborador\source\repos\HotelReport\bin\Debug\netcoreapp3.1\HotelReport.exe
+C:\Users\Colaborador\source\repos\HotelReport\bin\Debug\netcoreapp3.1\HotelReport.deps.json
+C:\Users\Colaborador\source\repos\HotelReport\bin\Debug\netcoreapp3.1\HotelReport.runtimeconfig.json
+C:\Users\Colaborador\source\repos\HotelReport\bin\Debug\netcoreapp3.1\HotelReport.runtimeconfig.dev.json
+C:\Users\Colaborador\source\repos\HotelReport\bin\Debug\netcoreapp3.1\HotelReport.dll
+C:\Users\Colaborador\source\repos\HotelReport\bin\Debug\netcoreapp3.1\HotelReport.pdb
+C:\Users\Colaborador\source\repos\HotelReport\obj\Debug\netcoreapp3.1\HotelReport.csproj.AssemblyReference.cache
+C:\Users\Colaborador\source\repos\HotelReport\obj\Debug\netcoreapp3.1\HotelReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colaborador\source\repos\HotelReport\obj\Debug\netcoreapp3.1\HotelReport.AssemblyInfoInputs.cache
+C:\Users\Colaborador\source\repos\HotelReport\obj\Debug\netcoreapp3.1\HotelReport.AssemblyInfo.cs
+C:\Users\Colaborador\source\repos\HotelReport\obj\Debug\netcoreapp3.1\HotelReport.csproj.CoreCompileInputs.cache
+C:\Users\Colaborador\source\repos\HotelReport\obj\Debug\netcoreapp3.1\HotelReport.dll
+C:\Users\Colaborador\source\repos\HotelReport\obj\Debug\netcoreapp3.1\HotelReport.pdb
+C:\Users\Colaborador\source\repos\HotelReport\obj\Debug\netcoreapp3.1\HotelReport.genruntimeconfig.cache
